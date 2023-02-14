@@ -48,7 +48,7 @@ header {
     padding-top: 100px;
     padding-bottom: 100px;
     margin: auto;
-    background-image: linear-gradient(to top, #0c0c0c, black 90%);
+    background-image: linear-gradient(to top, #0c0c0c, black 60%);
     color: white;
 }
 
@@ -127,9 +127,9 @@ img {
 
 div.video {
     background-color: var(--cor01);
-    margin: 20px -20px 30px -20px;
+    margin: 15px -20px 15px -20px;
     padding: 20px;
-    padding-bottom: 50%;
+    padding-bottom: 54%;
     position: relative;
 }
 
